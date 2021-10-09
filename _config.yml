@@ -38,11 +38,11 @@ share-links-active:
   facebook: true
   linkedin: true
 
-feed_show_excerpt: false
+show_excerpts: false
 post_search: true
 
 # Build settings
-theme: beautiful-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
